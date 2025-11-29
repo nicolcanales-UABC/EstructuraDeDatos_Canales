@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "nodo.h": "c",
+        "stdio.h": "c",
+        "captura.h": "c",
+        "cola.h": "c"
+    }
+}
